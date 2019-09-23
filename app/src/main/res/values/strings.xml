@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Test233</string>
+    <string name="hello_android">Hello Android!</string>
+    <string name="hello_world">Hello World!</string>
+    <string name="button_change">to Android!</string>
+    <string name="button_change2">to World!</string>
+    <string name="button_change3">Get and show</string>
+</resources>
